@@ -174,13 +174,13 @@ margin-left: 100px; /* Add margin to the right side of titles */
 }
 
 .name-title {
-color: white; /* Change text color to white */
+color: #222327; /* Change text color to white */
 font-size: 36px; /* Adjust size for name title */
 margin: 0; /* Remove default margin */
 }
 
 .occupation-title {
-color: white; /* Change text color to white */
+color: #222327; /* Change text color to white */
 font-size: 24px; /* Adjust size for occupation title */
 margin: 0; /* Remove default margin */
 }
